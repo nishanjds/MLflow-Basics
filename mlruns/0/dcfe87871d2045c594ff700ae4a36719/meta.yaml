@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/n.kamaleson/Desktop/Playground/MLFlow/mlruns/0/dcfe87871d2045c594ff700ae4a36719/artifacts
+end_time: 1711012504534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcfe87871d2045c594ff700ae4a36719
+run_name: secretive-owl-636
+run_uuid: dcfe87871d2045c594ff700ae4a36719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711012502221
+status: 3
+tags: []
+user_id: N.Kamaleson

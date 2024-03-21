@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/n.kamaleson/Desktop/Playground/MLFlow/mlruns/0/d252c7166d5641f4b73de2df9852a279/artifacts
+end_time: 1711012495542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d252c7166d5641f4b73de2df9852a279
+run_name: languid-finch-951
+run_uuid: d252c7166d5641f4b73de2df9852a279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711012493415
+status: 3
+tags: []
+user_id: N.Kamaleson
